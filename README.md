@@ -11,7 +11,9 @@ Input:
   1) Should contain files for finding plagiarism
   2) A file that contains all the step 1 files 
   
-  
-Run the program by using the below command:
+
+Compile the program
 javac P1.java
+
+Run the program by using the below command
 java P1 t10.dat
