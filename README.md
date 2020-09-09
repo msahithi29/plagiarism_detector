@@ -1,6 +1,6 @@
 # plagiarism_detector
-Program is written in Java 
-The program finds plagiarised data using three steps : shingling, minhashing, and locality sensitive hashing (LSH)
+Program is written in Java.
+It finds plagiarised pairs using three steps : shingling, minhashing, and locality sensitive hashing (LSH)
 The output shows the following:
   1) shingling matrix and random permutations,
   2) signature matrix,
