@@ -16,4 +16,4 @@ Compile the program:
   javac P1.java
 
 Run the program by using the below command:
-  java P1 t10.dat
+  java P1 < t10.dat
